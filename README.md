@@ -2,7 +2,7 @@
 <h3 align="center">A SysOps from Mashhad, Iran.</h3>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antisec12&show_icons=true&locale=en" alt="antisec12" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antisec12&show_icons=true&locale=en" alt="antisec12" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antisec12&label=Profile%20views&color=0e75b6&style=flat" alt="antisec12" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python, Terraform, Ansible, etc...**
 
-- 👯 I’m looking to collaborate on [TorForWindows](https://github.com/ANTISEC12/torforwindows)
+- 🤝 I’m looking to collaborate on [TorForWindows](https://github.com/ANTISEC12/torforwindows)
 
 - 🤝 I’m looking for help with [TorForWindows](https://github.com/ANTISEC12/torforwindows)
 
