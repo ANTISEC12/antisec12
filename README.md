@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [There](https://github.com/antisec12)
 
-- 📄 [Know about my experiences](https://antisec12.github.io/resume/)
+- 📄 [Know about my Resume](https://antisec12.github.io/resume/)
 
 - ⚡ Fun fact **There's no place like localhost!**
 
