@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python, Terraform, Ansible, etc...**
 
-- 🤝 I’m looking to collaborate on [TorForWindows](https://github.com/ANTISEC12/torforwindows)
+- 🤝 I’m looking to collaborate OpenSource project.
 
 - 🤝 I’m looking for help with [TorForWindows](https://github.com/ANTISEC12/torforwindows)
 
